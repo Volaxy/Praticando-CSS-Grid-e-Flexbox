@@ -35,3 +35,11 @@ URL do curso -> [Praticando CSS Grid e Flexbox](https://cursos.alura.com.br/cour
 * Alterar eixos com a propriedade `flex-direction`.
 * Organizar conjuntos de itens em um container com a propriedade `flex-grow`.
 * Unir propriedades do flexbox em conjunto de media query para obter o resultado de layouts responsivos.
+
+***
+
+## 04 - Mergulhando no Grid &#x1F516;
+* Criar linhas e colunas em um Layout, calculando as alturas e larguras.
+* Posicionar itens por meio da criação de um template com áreas do Grid.
+* Utilizar a unidade de medida fr.
+* Utilizar a função do css repeat().
