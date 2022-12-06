@@ -47,3 +47,4 @@ URL do curso -> [Praticando CSS Grid e Flexbox](https://cursos.alura.com.br/cour
 ***
 
 ## 05 - Alinhando Grid e Flex Items &#x1F516;
+* Como utilizar a propriedade aling-self no flexbox e no grid.
