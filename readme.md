@@ -43,3 +43,7 @@ URL do curso -> [Praticando CSS Grid e Flexbox](https://cursos.alura.com.br/cour
 * Posicionar itens por meio da criação de um template com áreas do Grid.
 * Utilizar a unidade de medida fr.
 * Utilizar a função do css repeat().
+
+***
+
+## 05 - Alinhando Grid e Flex Items &#x1F516;
